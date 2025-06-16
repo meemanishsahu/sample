@@ -26,18 +26,18 @@
 // const result4 = circle(3.144, 4);
 // console.log(result4);
 
-// // paralleogram
-// function paralleogram(base , height) {
-//   return base * height;
-// }
-// const result5 = paralleogram(8, 9);
-// console.log(result5);
+// paralleogram
+function paralleogram(base , height) {
+  return base * height;
+}
+const result5 = paralleogram(8, 9);
+console.log(result5);
 
-// function multiplier(fresult, multi) {
-//   return fresult * multi
-// }
-// const finalresult = multiplier(result5,20)
-// console.log(finalresult);
+function multiplier(fresult, multi) {
+  return fresult * multi
+}
+const finalresult = multiplier(result5,20)
+console.log(finalresult);
 
 
 
