@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.box{
+    height: 27vh;
+    width: 20vw;
+   background-color: rgb(137, 137, 209);
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
